@@ -1,3 +1,8 @@
+/*CLASE2: Tema: Ejercicios con ciclos y Crear Clases POO parte 0(20-08)
+Punto:2.1 Ejercicio 1 de ciclos en Java con la clase Scanner */
+/*Ejercicio 1: Leer un numero y mostrar su cuadrado.
+Repetir el proceso hasta que se introduzca un numero negativo.
+ */
 package Ciclos01;
 
 import java.util.Scanner;

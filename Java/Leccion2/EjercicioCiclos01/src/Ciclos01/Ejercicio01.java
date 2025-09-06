@@ -1,3 +1,8 @@
+/*CLASE 1:Tema:Tema: Ejercicios con ciclos y Crear Clases POO parte 0(20-08)
+Punto: 2.2 Ejercicio 1 de ciclos en Java sin la clase Scanner: PRESENTANDO LA CLASE JOptionPane
+/*Ejercicio 1: Leer un numero y mostrar su cuadrado.
+Repetir el proceso hasta que se introduzca un numero negativo.
+ */
 package Ciclos01;
 
 import javax.swing.JOptionPane;
