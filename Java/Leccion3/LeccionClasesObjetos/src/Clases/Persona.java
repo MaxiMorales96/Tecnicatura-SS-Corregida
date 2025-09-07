@@ -1,5 +1,5 @@
 /*CLASE 4:Clases y Objetos Poo parte 2 Tarea
-4.1- Metodos (vIDEO1)
+4.1- Metodos (VIDEO1)
 4.2 Creacion de un Objeto(ViDEO 2)*/
 package Clases;
 
